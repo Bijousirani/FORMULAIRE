@@ -7,11 +7,11 @@ body{
 div.contenu{
     height: 50%;
     width: 50%;
-    margin-left: 50%;
+    margin-left: 80%;
     margin-right: 20%;
     margin-top: 20%;
     margin-bottom: 20%;
-}QWW
+}
 form{
     box-shadow: 0 0 8px 2px black;
     display: inline-block;
